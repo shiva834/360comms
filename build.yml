@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - gldv-360-batch-stream/360commstest-1.0-SNAPSHOT.jar
+    - /s3/gldv-360-batch-stream/360commstest-1.0-SNAPSHOT.jar
