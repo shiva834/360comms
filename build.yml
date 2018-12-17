@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - 360comms/target/360commstest-1.0-SNAPSHOT.jar
+    - /target/360commstest-1.0-SNAPSHOT.jar
