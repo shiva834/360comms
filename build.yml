@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - /codebuild/output/src148175782/src/github.com/shiva834/360comms/target/360commstest-1.0-SNAPSHOT.jar
+    - '**/*'
