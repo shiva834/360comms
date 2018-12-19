@@ -5,7 +5,7 @@
     <includeBaseDirectory>true</includeBaseDirectory>
 
     <formats>
-        <format>war</format>
+        <format>tar</format>
     </formats>
   <!--<fileSets>
         <fileSet>
